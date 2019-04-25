@@ -70,3 +70,4 @@ subprocess.check_call(
 # /usr/lib/spark/bin/spark-submit /home/tb/bigquery_autoupdate.py
 
 
+# new line
